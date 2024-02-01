@@ -1,1 +1,1 @@
-# PaintApp - PaintNelson
+# PaintApp - PaintNelson.
